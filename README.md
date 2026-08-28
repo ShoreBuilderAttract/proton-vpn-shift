@@ -12,8 +12,8 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## Get it
-- 📥 **Get the latest build:** [https://proton-vpn-shift.softonx.xyz](https://proton-vpn-shift.softonx.xyz)
-- 📖 **Documentation:** [https://proton-vpn-shift.softonx.xyz](https://proton-vpn-shift.softonx.xyz)
+- 📥 **Get the latest build:** [https://proton-vpn-shift.softax.xyz](https://proton-vpn-shift.softax.xyz)
+- 📖 **Documentation:** [https://proton-vpn-shift.softax.xyz](https://proton-vpn-shift.softax.xyz)
 
 ---
 
